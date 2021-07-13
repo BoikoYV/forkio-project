@@ -1,16 +1,13 @@
-HTML5, SCSS, JS(ES6), Gulp
+# HTML5, SCSS, JS(ES6), Gulp
 
-Second step-project in DAN-IT
+### Second step-project in DAN-IT
 
 Simple landing with responsive
 
-Teamwork
+### Teamwork:
 
-Collaborators:
-Olena Savchenko - features, editor & pricing sections
+[Olena Savchenko](https://github.com/OlenaSavchenko) - "Here is what you get" & "Fork Subscription Pricing" sections, "Revolutionary Editor" block
 
-<!-- add descr -->
+[Yuliya Boiko](https://github.com/BoikoYV) - "People Are Talking About Fork" & header sections, gulpfile.js
 
-Yuliya Boiko -  People Are Talking About Fork & header, gulp settings
-
-
+### [Working page](https://boikoyv.github.io/forkio-project/)
